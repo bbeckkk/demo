@@ -1,0 +1,411 @@
+{
+    "status": true,
+    "message": "Data retrieved successfully",
+    "data": {
+        "calendarData": [
+            {
+                "date": "2020-02-07",
+                "msg": "Dasain holiday",
+                "category": "holiday"
+            },
+            {
+                "date": "2020-02-12",
+                "msg": "Tihar holiday",
+                "category": "holiday"
+            },
+            {
+                "date": "2020-02-14",
+                "msg": "Holi festival concert",
+                "category": "events"
+            },
+            {
+                "date": "2020-02-16",
+                "msg": "School aniversary",
+                "category": "events"
+            },
+            {
+                "date": "2020-02-18",
+                "msg": "Math Exam",
+                "category": "exam"
+            },
+            {
+                "date": "2020-02-19",
+                "msg": "Science Exam",
+                "category": "exam"
+            }
+        ],
+        "schoolInfo": {
+            "schoolLogo": "ktmSchoolLogo_345678.png",
+            "schoolName": "KTM Valley School"
+        },
+        "aboutUsData": {
+            "data": [
+                {
+                    "title": "About Us",
+                    "detail": "Marpha Public School was established in the year 1990 in Kathmandu with 100 students and 20 staff members. In the year 2001 with the vision of providing quality education at an affordable cost by using modern pedagogies in the state-of-the art infrastructure facilities it shifted to its own property of around 20 ropanis land in Thapathali, Kathmandu which is in heart of the city. It has modern academic buildings with spacious classrooms, laboratories, Activity hall, separate boys and girls hostel buildings, administrative building, dining hall equipped with modern kitchen facilities."
+                },
+                {
+                    "title": "Vision and Mission",
+                    "detail": "Our motto “HONESTY & LOYALTY” reflects our understanding and beliefs. With Honesty and Loyalty deeply embedded in our heart we encourage innovative learning through our academic and non-academic programs. Marpha cultivates excellence in every student by engaging them in rigorous and relevant learning opportunities that promote academic, physical, social and emotional growth."
+                },
+                {
+                    "title": "Learning Principles",
+                    "detail": "At the center of Marpha Pedagogy are students with their own learning styles, strengths and challenges. Students come to school with combinations of unique and shared patterns of values, knowledge and experience of the world and their place in it. Promoting open communication based on understanding and respect, Marpha encourages students to become active, compassionate lifelong learners. Marpha Pedagogy is holistic in nature - it’s concerned with the development, Marpha pedagogy addresses students’ social, emotional and physical well-being. The learners’ need is the pedagogy’s mission of the future. It requires learners to attempt to become inquirers, researchers, inquisitive, speakers, righteous, modern, caring, courageous, independent, balanced and thoughtful. These attributes the learners represent, are internationally accepted a broad range of human capacities and responsibilities that go beyond a concern for intellectual development and academic content. They involve a pledge to implement principles and values that support all members of the school community learn to respect themselves, others and the world around them."
+                }
+            ]
+        },
+        "contactData": {
+            "coverImage": "coverImage_11180339.js",
+            "address": "1-Ason, Kathmandu",
+            "pob": "123XYZ",
+            "email": "school@marphatech.com",
+            "phn": "123456789",
+            "openingHours": "Sun-Fri 9AM-5PM"
+        },
+        "headOfInstituteData": {
+            "profileImg": "head_234578.jpg",
+            "name": "Alison Thapa",
+            "designation": "Founder Principal",
+            "school": "Valley Secondary School",
+            "detail": "MARPHA School has always been at the forefront of education in Nepal in terms of quality education. Our students have gone forth and excelled in various fields nationally and internationally. This has been made possible with the blessings of our elders, visionary members of the school managing committee, supportive parents and dedicated staff who have relentlessly strived to deliver quality education. Since its inception, we have always been committed to providing high quality education that emphasizes not only gaining knowledge but also focuses on the students’ holistic development. The achievement of prestigious awards i.e. ‘Secondary Education National Shield’ four times (2058, 2059, 2067 and 2069 B.S.) and ‘Secondary Education Regional Shield’ two times (2063 and 2068 B.S.) by the Ministry of Education (MOE) bears testimony to our commitment towards quality education, and have made a breakthrough in our journey of high school education. For its continuous improvement, we listen and respond to parents’ concerns and needs of a changing society. Our child-centered approach to teaching and learning at the primary level has become successful in terms of the overall development of the children. We have infrastructure of an international standard supported by state-of-the-art facilities, and a team of professionals to nurture the creative minds of students. We reiterate our commitment to provide a nurturing environment and every facility possible to ensure a high quality education every student deserves in today’s globalized world."
+        },
+        "hostelCanteenMenus": [
+            {
+                "title": "Sunday",
+                "totalMenu": "2",
+                "timeTableArray": [
+                    {
+                        "item": "Momo",
+                        "price": "100"
+                    },
+                    {
+                        "item": "Fried Rice",
+                        "price": "50"
+                    }
+                ]
+            },
+            {
+                "title": "Monday",
+                "totalMenu": "1",
+                "timeTableArray": [
+                    {
+                        "item": "Momo",
+                        "price": "3"
+                    }
+                ]
+            },
+            {
+                "title": "Tuesday",
+                "totalMenu": "8",
+                "timeTableArray": [
+                    {
+                        "item": "Rice",
+                        "price": "3"
+                    }
+                ]
+            },
+            {
+                "title": "Wednesday",
+                "totalMenu": "8",
+                "timeTableArray": [
+                    {
+                        "item": "Bread",
+                        "price": "3"
+                    }
+                ]
+            },
+            {
+                "title": "Thursday",
+                "totalMenu": "8",
+                "timeTableArray": [
+                    {
+                        "item": "Fried Rice",
+                        "price": "3"
+                    }
+                ]
+            },
+            {
+                "title": "Friday",
+                "totalMenu": "8",
+                "timeTableArray": [
+                    {
+                        "item": "Biscuit",
+                        "price": "5"
+                    }
+                ]
+            }
+        ],
+        "hostelRoutineData": {
+            "category": [
+                {
+                    "title": "School Days",
+                    "timeTable": [
+                        {
+                            "time": "5 AM",
+                            "activities": "Wakeup Time"
+                        },
+                        {
+                            "time": "6 AM",
+                            "activities": "Breakfast"
+                        },
+                        {
+                            "time": "7 AM",
+                            "activities": "Sports"
+                        },
+                        {
+                            "time": "8 AM",
+                            "activities": "Study"
+                        },
+                    ]
+                },
+                {
+                    "title": "Weekend or Holidays",
+                    "timeTable": [
+                        {
+                            "time": "5 AM",
+                            "activities": "Wakeup Time"
+                        },
+                        {
+                            "time": "6 AM",
+                            "activities": "Breakfast"
+                        },
+                        {
+                            "time": "7 AM",
+                            "activities": "Sports"
+                        },
+                        {
+                            "time": "8 AM",
+                            "activities": "Study"
+                        }
+                    ]
+                }
+            ]
+        },
+        "leadershipData": [
+            {
+                "id": "1",
+                "data": {
+                    "profileImg": "https://marpha.com/images/head.jpg",
+                    "name": "Alison Thapa",
+                    "designation": "Founder Principal",
+                }
+            },
+            {
+                "id": "4",
+                "data": {
+                    "profileImg": "https://marpha.com/images/head.jpg",
+                    "name": "Alison Thapa",
+                    "designation": "Founder Principal",
+                }
+            },
+            {
+                "id": "5",
+                "data": {
+                    "profileImg": "https://marpha.com/images/head.jpg",
+                    "name": "Alison Thapa",
+                    "designation": "Founder Principal",
+                }
+            },
+            {
+                "id": "6",
+                "data": {
+                    "profileImg": "https://marpha.com/images/head.jpg",
+                    "name": "Alison Thapa",
+                    "designation": "Founder Principal",
+                }
+            }
+        ],
+        "songData": {
+            "songs": [
+                {
+                    "title": "School Song",
+                    "detail": "My Mummy says I'm a miracle! My Daddy says I'm his special little guy! I am a Princess 
+                And I am a Prince 
+                Mum says I'm an angel 
+                Mum says I'm an angel 
+                Mum says I'm an angel 
+                So you think you're able (A-ble) 
+                To survive this mess by being a Prince or a Princess (B-ing) 
+                You will soon see (C) 
+                There's no escaping tragedy (trage-D) 
+                And even (E-ven) 
+                If you put in heaps of effort (F-ort) 
+                You're just wasting energy (ener-G) 
+                'Cause your life as you know it is ancient history (H-ent) 
+                I, have suffered in this jail (I and J-l) 
+                I've been trapped inside this cage for ages (K-ge) 
+                This living 'ell (L) 
+                But if I try I can remember (rem-M-ber) 
+                Back before my life had ended (N-ded) 
+                Before my happy days were over (O-ver) 
+                Before I first heard the pealing of the bell (P-ling) 
+                Like you I was curious (Q-rious) 
+                So innocent I asked a thousand questions (R-sked) 
+                But unless you want to suffer listen up (unl-S) 
+                And I will teach you, a thing or two (T-ch) 
+                You listen here, my dear (U) 
+                You'll be punished so severely (se-Vre-ly) 
+                If you step out of line, and if you cry, it will be double, you should stay out of trouble (W) 
+                And remember to be extremely careful (X-tremely)"
+                },
+                {
+                    "title": "National Anthem",
+                    "detail": "sayaun thungaa phoolka haami eutai maalaa Nepali 
+            sarwabhaum bhai failiyekaa, mechi mahakali  
+            sayau thunga phoolka hami eutai mala Nepali 
+            sarwabhaum bhai failiyeka, mechi mahakalai  
+            
+            prakritika koti koti sampadako aachala 
+            bir haruka ragata le swatantra ra atala 
+            
+            gyana bhumi, santi bhumi, tarai, pahad, himal 
+            akhanda yo pyaro hamro maatri bhumi Nepal 
+            
+            bahul jati bhasa, dharma, sanskriti chhan bisaala 
+            agragaami raastra haamro, jay jay Nepal….. "
+                }
+            ]
+        },
+        "rulesAndRegulationData": {
+            "brief": "The school rules have been established in partnership with the community over a long period of time.  They reflect the school community’s expectations in terms of acceptable standards of behaviour, dress and personal presentation in the widest sense. Students as representatives of the School are expected to follow the school rules at all times when on the school grounds, representing the school, attending a school activity or when clearly associated with the school, i.e. when wearing school uniform.",
+            "data": [
+                {
+                    "id": "1",
+                    "title": "GENERAL CONDUCT",
+                    "details": [
+                        {
+                            "id": "1",
+                            "rule": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                        },
+                        {
+                            "id": "2",
+                            "rule": "To respect the rights of others to learn."
+                        },
+                        {
+                            "id": "3",
+                            "rule": "To respect their peers and teachers regardless of ethnicity, religion or gender "
+                        },
+                        {
+                            "id": "4",
+                            "rule": "To respect the property and equipment of the school and others "
+                        },
+                        {
+                            "id": "5",
+                            "rule": "To carry out reasonable instructions to the best of their ability"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "title": "STUDENT APPEARANCE",
+                    "details": [
+                        {
+                            "id": "1",
+                            "rule": "School Uniform should be worn tidily and correctly both at school and between home and school. The full school uniform must be worn at all times. Shirts are to be tucked in; socks are to be pulled up; heel straps in place. Where a situation arises concerning a student’s uniform, written requests for the temporary wearing of non-regulation items must be referred to a Dean or Senior Leadership."
+                        },
+                        {
+                            "id": "2",
+                            "rule": "Students are to be clean-shaven at all times while representing the school."
+                        },
+                        {
+                            "id": "3",
+                            "rule": "No jewellery, except a watch, is to be worn. Jewellery of religious or cultural significance may be worn but must be covered at all times. No piercings are allowed. In particular, clear plastic studs, or otherwise, used to maintain the piercing, are not allowed."
+                        },
+                        {
+                            "id": "4",
+                            "rule": "A student’s hair must be kept clean and tidy at all times. The length of the hair should not be shorter than a “number 2” razor cut. Hair should not be touching the shirt collar and should be off the face at all times. The style of the hair should not be extreme, including but not limited to mohawk, afro, shaved styles and/or patterns, hair tied up and braided. The colour must be the student’s own natural colour; no dye nor highlights are allowed."
+                        },
+                        {
+                            "id": "5",
+                            "rule": "Students are not permitted to have visible tattoos."
+                        },
+                        {
+                            "id": "6",
+                            "rule": "Make-up must not be worn. "
+                        }
+                    ]
+                }
+            ]
+        },
+        "schoolTimeTableData": {
+            "classCategory": [
+                "Nursery - III",
+                "IV-V",
+                "VI-X"
+            ],
+            "data": {
+                "category": [
+                    {
+                        "title": "School Schedule",
+                        "timeTable": [
+                            {
+                                "category1": "09:25-10:11 = Morning Assembly",
+                                "category2": "10:10-11:10=Morning Assembly",
+                                "category3": "10: 10-12: 00= 1st Period"
+                            },
+                            {
+                                "category1": "10:10-11:10 = Math class",
+                                "category2": "11:10-12:10=Science class",
+                                "category3": "10: 10-12: 00= 2nd Period"
+                            },
+                            {
+                                "category1": "10:10-11:10 = Math class",
+                                "category2": "11:10-12:10=Science class",
+                                "category3": "10: 10-12: 00= 2nd Period"
+                            },
+                            {
+                                "category1": "11:25-1:10 = Morning Assembly",
+                                "category2": "12:10-1:10=Morning Assembly",
+                                "category3": "12: 10-2: 00= 3rd Period"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Hostel Schedule",
+                        "timeTable": [
+                            {
+                                "category1": "09:25-10:10 = Morning Assembly",
+                                "category2": "10:10-11:10=Morning Assembly",
+                                "category3": "10: 10-12: 00= 1st Period"
+                            },
+                            {
+                                "category1": "10:10-11:10 = Math classs",
+                                "category2": "11:10-12:10=Science class",
+                                "category3": "10: 10-12: 00= 2nd Period"
+                            },
+                            {
+                                "category1": "11:25-1:10 = Morningg Assembly",
+                                "category2": "12:10-1:10=Morning Assembly",
+                                "category3": "12: 10-2: 00= 3rd Period"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Hostel Schedule For Saturday",
+                        "timeTable": [
+                            {
+                                "category1": "09:25-10:10 = Morning Assembly",
+                                "category2": "10:10-11:10=Morning Assembly",
+                                "category3": "10: 10-12: 00= 1st Period"
+                            },
+                            {
+                                "category1": "10:10-11:10 = Math class",
+                                "category2": "11:10-12:10=Science class",
+                                "category3": "10: 10-12: 00= 2nd Period"
+                            },
+                            {
+                                "category1": "11:25-1:10 = Morning Assemblyy",
+                                "category2": "12:10-1:10=Morning Assembly",
+                                "category3": "12: 10-2: 00= 3rd Period"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "paths": {
+            "baseUrl": "https://marpha.com/apis/",
+            "imageUrl": "https://marpha.com/assets/images/"
+        }
+    }
+}
