@@ -1,4 +1,6 @@
 {
+  "status": true,
+  "message": "Data retrieved successfully",
   "posts": [
     {
       "id": 1,
