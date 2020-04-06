@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "calendarData": [
             {
                 "date": "2020-02-07",
                 "msg": "Dasain holiday",
@@ -31,7 +31,7 @@
                 "category": "exam"
             }
         ],
-  "comments": [
+  "aboutUsData": [
     {
         "title": "About Us",
         "detail": "Marpha Public School was established"
