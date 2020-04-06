@@ -1,18 +1,36 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
+            {
+                "date": "2020-02-07",
+                "msg": "Dasain holiday",
+                "category": "holiday"
+            },
+            {
+                "date": "2020-02-12",
+                "msg": "Tihar holiday",
+                "category": "holiday"
+            },
+            {
+                "date": "2020-02-14",
+                "msg": "Holi festival concert",
+                "category": "events"
+            },
+            {
+                "date": "2020-02-16",
+                "msg": "School aniversary",
+                "category": "events"
+            },
+            {
+                "date": "2020-02-18",
+                "msg": "Math Exam",
+                "category": "exam"
+            },
+            {
+                "date": "2020-02-19",
+                "msg": "Science Exam",
+                "category": "exam"
+            }
+        ],
   "comments": [
     {
       "id": 1,
