@@ -1,15 +1,62 @@
-  
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "status": true,
+    "message": "Data retrieved successfully",
+    "data": {
+        "calendarData": [
+            {
+                "date": "2020-02-07",
+                "msg": "Dasain holiday",
+                "category": "holiday"
+            },
+            {
+                "date": "2020-02-12",
+                "msg": "Tihar holiday",
+                "category": "holiday"
+            },
+            {
+                "date": "2020-02-14",
+                "msg": "Holi festival concert",
+                "category": "events"
+            },
+            {
+                "date": "2020-02-16",
+                "msg": "School aniversary",
+                "category": "events"
+            },
+            {
+                "date": "2020-02-18",
+                "msg": "Math Exam",
+                "category": "exam"
+            },
+            {
+                "date": "2020-02-19",
+                "msg": "Science Exam",
+                "category": "exam"
+            }
+        ],
+        "schoolInfo": {
+            "schoolLogo": "ktmSchoolLogo_345678.png",
+            "schoolName": "KTM Valley School"
+        },
+        "aboutUsData": {
+            "data": [
+                {
+                    "title": "About Us",
+                    "detail": "Marpha Public School was established in the year 1990 in Kathmandu with 100 students and 20 staff members. In the year 2001 with the vision of providing quality education at an affordable cost by using modern pedagogies in the state-of-the art infrastructure facilities it shifted to its own property of around 20 ropanis land in Thapathali, Kathmandu which is in heart of the city. It has modern academic buildings with spacious classrooms, laboratories, Activity hall, separate boys and girls hostel buildings, administrative building, dining hall equipped with modern kitchen facilities."
+                },
+                {
+                    "title": "Vision and Mission",
+                    "detail": "Our motto “HONESTY & LOYALTY” reflects our understanding and beliefs. With Honesty and Loyalty deeply embedded in our heart we encourage innovative learning through our academic and non-academic programs. Marpha cultivates excellence in every student by engaging them in rigorous and relevant learning opportunities that promote academic, physical, social and emotional growth."
+                },
+                {
+                    "title": "Learning Principles",
+                    "detail": "At the center of Marpha Pedagogy are students with their own learning styles, strengths and challenges. Students come to school with combinations of unique and shared patterns of values, knowledge and experience of the world and their place in it. Promoting open communication based on understanding and respect, Marpha encourages students to become active, compassionate lifelong learners. Marpha Pedagogy is holistic in nature - it’s concerned with the development, Marpha pedagogy addresses students’ social, emotional and physical well-being. The learners’ need is the pedagogy’s mission of the future. It requires learners to attempt to become inquirers, researchers, inquisitive, speakers, righteous, modern, caring, courageous, independent, balanced and thoughtful. These attributes the learners represent, are internationally accepted a broad range of human capacities and responsibilities that go beyond a concern for intellectual development and academic content. They involve a pledge to implement principles and values that support all members of the school community learn to respect themselves, others and the world around them."
+                }
+            ]
+        },
+        "paths": {
+            "baseUrl": "https://marpha.com/apis/",
+            "imageUrl": "https://marpha.com/assets/images/"
+        }
+    }
 }
