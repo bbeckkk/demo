@@ -1,50 +1,52 @@
 {
   "calendarData": [
-            {
-                "date": "2020-02-07",
-                "msg": "Dasain holiday",
-                "category": "holiday"
-            },
-            {
-                "date": "2020-02-12",
-                "msg": "Tihar holiday",
-                "category": "holiday"
-            },
-            {
-                "date": "2020-02-14",
-                "msg": "Holi festival concert",
-                "category": "events"
-            },
-            {
-                "date": "2020-02-16",
-                "msg": "School aniversary",
-                "category": "events"
-            },
-            {
-                "date": "2020-02-18",
-                "msg": "Math Exam",
-                "category": "exam"
-            },
-            {
-                "date": "2020-02-19",
-                "msg": "Science Exam",
-                "category": "exam"
-            }
-        ],
-  "aboutUsData": [
-    {
-        "title": "About Us",
-        "detail": "Marpha Public School was established"
-      },
-      {
-          "title": "Vision and Mission",
-          "detail": "Our motto “HONESTY"
-      },
-      {
-          "title": "Learning Principles",
-          "detail": "At the center of "
-      }
-  ],
+        {
+            "date": "2020-02-07",
+            "msg": "Dasain holiday",
+            "category": "holiday"
+        },
+        {
+            "date": "2020-02-12",
+            "msg": "Tihar holiday",
+            "category": "holiday"
+        },
+        {
+            "date": "2020-02-14",
+            "msg": "Holi festival concert",
+            "category": "events"
+        },
+        {
+            "date": "2020-02-16",
+            "msg": "School aniversary",
+            "category": "events"
+        },
+        {
+            "date": "2020-02-18",
+            "msg": "Math Exam",
+            "category": "exam"
+        },
+        {
+            "date": "2020-02-19",
+            "msg": "Science Exam",
+            "category": "exam"
+        }
+    ],
+  "aboutUsData": {
+      "data": [
+          {
+              "title": "About Us",
+              "detail": "Marpha Public School was established"
+          },
+          {
+              "title": "Vision and Mission",
+              "detail": "Our motto “HONESTY"
+          },
+          {
+              "title": "Learning Principles",
+              "detail": "At the center of "
+          }
+      ]
+  },
   "schoolInfo": {
     "schoolLogo": "ktmSchoolLogo_345678.png",
     "schoolName": "KTM Valley School"
