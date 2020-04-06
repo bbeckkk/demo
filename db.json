@@ -33,15 +33,17 @@
         ],
   "comments": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
+        "title": "About Us",
+        "detail": "Marpha Public School was established"
+      },
+      {
+          "title": "Vision and Mission",
+          "detail": "Our motto “HONESTY"
+      },
+      {
+          "title": "Learning Principles",
+          "detail": "At the center of "
+      }
   ],
   "profile": {
     "schoolLogo": "ktmSchoolLogo_345678.png",
