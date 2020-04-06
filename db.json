@@ -50,5 +50,6 @@
   "schoolInfo": {
     "schoolLogo": "ktmSchoolLogo_345678.png",
     "schoolName": "KTM Valley School"
-  }
+  },
+  "message": "Data retrieved successfully",
 }
